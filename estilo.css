@@ -5,9 +5,17 @@
 
 body{
     background-color: #7F2020;
+    color:aliceblue
+    font-family:"changa one", sans-serif;
 }
 .cabecalho{
     background-color: #978F66;
     display: flex;
     justify-content: space-between;
+    padding:15px 25px ;
+    align-items: center;
+}
+
+.cartao img{
+    width:80%;
 }
