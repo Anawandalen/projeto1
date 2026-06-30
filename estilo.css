@@ -4,12 +4,12 @@
 }
 
 body{
-    background-color: #7F2020;
+    background-color: #520101;
     color:aliceblue
     font-family:"changa one", sans-serif;
 }
 .cabecalho{
-    background-color: #978F66;
+    background-color: #667b97;
     display: flex;
     justify-content: space-between;
     padding:15px 25px ;
